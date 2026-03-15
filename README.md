@@ -45,7 +45,7 @@ export const engineer = {
   capabilities: [
     "Ingest alerts from PagerDuty, Datadog, Sentry",
     "Investigate root cause across your codebase",
-    "Generate fixes & open pull requests",
+    "Generate fixes and open pull requests",
     "Slack integration for human-in-the-loop",
     "Risk-classify every change automatically",
   ],
