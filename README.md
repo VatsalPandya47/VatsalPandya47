@@ -1,117 +1,134 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:667eea,100:764ba2&height=200&section=header&text=Vatsal%20Pandya&fontColor=f8f8f8&fontSize=50&fontAlignY=35&desc=Founder%20%26%20CEO%20%E2%80%94%20TasksMind&descAlignY=55&descSize=18&animation=fadeIn&fontFamily=monospace" width="100%" />
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BrunnerLivworkrepo/brunnerlivworkrepo/main/assets/github-header-image.gif" width="100%" alt="header" style="border-radius: 12px;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+building+the+AI+engineer+for+developers+on+call;%24+from+alert+to+pull+request+%E2%80%94+autonomously;%24+mumbai+%E2%86%92+nebraska+%E2%86%92+san+francisco" alt="Typing SVG" />
 
 <br/>
 
-# Hey, I'm Vatsal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-### Founder & CEO at [TasksMind](https://tasksmind.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+AI+Engineer+for+On-Call+%F0%9F%A4%96;Your+incidents+get+fixed+while+you+sleep+%F0%9F%98%B4;From+alert+to+pull+request+in+minutes+%E2%9A%A1;Mumbai+%E2%86%92+Nebraska+%E2%86%92+San+Francisco+%F0%9F%8C%89" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsaljanakpandya)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vatsalpandya333)
-[![Website](https://img.shields.io/badge/tasksmind.com-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tasksmind.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsalpandya@tasksmind.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=667eea)](https://www.linkedin.com/in/vatsaljanakpandya)&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=667eea)](https://x.com/vatsalpandya333)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/tasksmind.com-0a0a0a?style=flat-square&logo=google-chrome&logoColor=667eea)](https://tasksmind.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=667eea)](mailto:vatsalpandya@tasksmind.com)
 
 </div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+```
+ ~/vatsal $ cat about.txt
+```
 
-## About Me
+> I'm a builder from Mumbai, now based in San Francisco.
+> Studied Data Science & Business at UNL.
+> I turn ideas into products that solve real problems.
+>
+> Currently all-in on **[TasksMind](https://tasksmind.com)** — an AI engineer
+> that sits on your on-call rotation. When an incident fires, it investigates
+> the alert, reads the code, writes a fix, and opens a PR. Autonomously.
 
-I'm a builder from Mumbai, now based in San Francisco. Studied Data Science & Business at the University of Nebraska-Lincoln.
+<br/>
 
-I spend my time turning ideas into products that solve real problems. Right now I'm all-in on **[TasksMind](https://tasksmind.com)** — an AI engineer that sits on your on-call rotation.
-
-When an incident fires, TasksMind investigates the alert, reads the code, writes a fix, and opens a PR for your team to review.
-
-**No more 3 AM debugging sessions.**
-
-<br clear="both"/>
-
----
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> What I'm Building
+<div align="center">
 
 <table>
 <tr>
-<td width="60%">
+<td>
 
-### [TasksMind](https://tasksmind.com) — AI Engineer for On-Call
+```js
+// tasksmind.config.ts
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="15"> Ingests alerts from PagerDuty, Datadog, Sentry & more
+export const engineer = {
+  name: "TasksMind",
+  role: "AI Engineer for On-Call",
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="15"> Autonomously investigates root cause across your codebase
+  capabilities: [
+    "Ingest alerts from PagerDuty, Datadog, Sentry",
+    "Investigate root cause across your codebase",
+    "Generate fixes & open pull requests",
+    "Slack integration for human-in-the-loop",
+    "Risk-classify every change automatically",
+  ],
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="15"> Generates fixes and opens pull requests with full context
+  status: "shipping",
+  uptime: "24/7",
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="15"> Integrates with Slack for approvals & human-in-the-loop
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="15"> Risk-classifies changes so your team stays in control
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
-
-*Ship fixes faster.*
-*Sleep through the night.*
+  // Your incidents get fixed while you sleep.
+};
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+```
+ ~/vatsal $ cat stack.json
+```
 
 <div align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VatsalPandya47&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&type=svg" height="200" />
+**`LANGUAGES`**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-0a0a0a?style=flat-square&logo=swift&logoColor=FA7343)&nbsp;
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**`FRONTEND`**
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0a0a?style=flat-square&logo=shadcnui&logoColor=ffffff)
+
+**`BACKEND & INFRA`**
+
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ECF8E)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
+![Deno](https://img.shields.io/badge/Deno-0a0a0a?style=flat-square&logo=deno&logoColor=ffffff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=FF9900)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=ffffff)
+
+**`AI`**
+
+![Claude](https://img.shields.io/badge/Claude_API-0a0a0a?style=flat-square&logo=anthropic&logoColor=D4A574)&nbsp;
+![Modal](https://img.shields.io/badge/Modal-0a0a0a?style=flat-square&logo=modal&logoColor=4AE096)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+<br/>
 </div>
 
----
+<br/>
+
+```
+ ~/vatsal $ git log --oneline --graph
+```
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VatsalPandya47&theme=transparent&hide_border=true&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=8b8b8b&currStreakNum=f8f8f8&sideNums=f8f8f8&dates=555555&stroke=222222" height="200" />
+
+<br/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with people</b> — if you want to say hi, I'll be happy to meet you!
-
-<br/><br/>
-
 ```
-Move fast. Ship product. Fix incidents while you sleep.
+ ~/vatsal $ echo $MOTTO
+ Move fast. Ship product. Fix incidents while you sleep.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:667eea,100:764ba2&height=100&section=footer" width="100%" />
 
 </div>
