@@ -6,7 +6,7 @@
 
 mumbai → nebraska → san francisco 🌉
 
-studied data science + business @ university of nebraska–lincoln
+b.s. data science + business/computer science minor @ university of nebraska–lincoln (class of '26) — vexu robotics & csab
 
 founder & ceo @ **[tasksmind](https://tasksmind.com)** — the incident response platform for customer-reported bugs. when something breaks, it investigates, reads your code, writes the fix, and opens a PR. a human still clicks approve.
 
@@ -21,7 +21,8 @@ founder & ceo @ **[tasksmind](https://tasksmind.com)** — the incident response
 |---------|------|
 | **[16VC](https://16vc.com)** (Jun–Aug '26) | summer founder fellow — <4% acceptance |
 | **[Forum Ventures](https://www.forumvc.com/thought-pieces/introducing-spring-2026-b2b-ai-first-cohort)** (Apr–Jun '26) | founder in residence, 1st B2B AI cohort — 0.5% acceptance |
-| **[Dedalus Labs (YC S25) × The Residency](https://www.dedaluslabs.ai/breakin)** (Dec '25–Jan '26) | founder in residence, "break in" — acceptance rate was lower than princeton btw ;) |
+| **[The Residency](https://www.livetheresidency.com) — Delta, Chapter II** (Oct '25–Jan '26) | selected from 1500+ applicants — incubator backed by a16z and sam altman |
+| **[Dedalus Labs (YC S25) — Break In](https://www.dedaluslabs.ai/breakin)** (Dec '25–Jan '26) | founder in residence — acceptance rate was lower than princeton btw ;) |
 
 ---
 
@@ -33,13 +34,13 @@ founder & ceo @ **[tasksmind](https://tasksmind.com)** — the incident response
 
 | # | where | what |
 |---|-------|------|
-| 1 | **DPA Auctions** (Aug '25–May '26) | squad lead & PM — led a 6-person agile team building an ai asset-management dashboard for a $100M+ auction sponsor |
-| 2 | **UNL Athletics** (Mar–Apr '26) | data analyst — playing with excel! |
-| 7 | **University of Nebraska IT** (May–Sep '25) | automated diagnostics across 20+ classrooms, imaging + system-health scripts |
-| 6 | **Opendorse** (Feb–May '25) | full stack SWE — shipped react/node/postgres to prod, cut CI/CD deploy time 30% |
-| 5 | **Ameritas** (Feb '24–Feb '25) | python + docker compliance monitors (-40% violations), macOS automation saving 15+ hrs/week |
-| 4 | **VEXU Robotics @ UNL** (Sep '22–Feb '25) | led C++/python control code, +30% robot performance |
-| 3 | **Chick-fil-A** (Sep '22–Feb '24) | cashier — my first ever job :) |
+| 7 | **DPA Auctions** (Aug '25–May '26) | squad lead & PM — led a 6-person agile team building an ai asset-management dashboard for a $100M+ auction sponsor |
+| 6 | **UNL Athletics** (Mar–Apr '26) | data analyst — playing with excel! |
+| 5 | **University of Nebraska IT** (May–Sep '25) | automated diagnostics across 20+ classrooms, imaging + system-health scripts |
+| 4 | **Opendorse** (Feb–May '25) | full stack SWE — shipped react/node/postgres to prod, cut CI/CD deploy time 30% |
+| 3 | **Ameritas** (Feb '24–Feb '25) | python + docker compliance monitors (-40% violations), macOS automation saving 15+ hrs/week |
+| 2 | **VEXU Robotics @ UNL** (Sep '22–Feb '25) | led C++/python control code, +30% robot performance |
+| 1 | **Chick-fil-A** (Sep '22–Feb '24) | cashier — my first ever job :) |
 
 ---
 
